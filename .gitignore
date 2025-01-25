@@ -1,1 +1,4 @@
 "node_modules/\nvenv/\ndist/\n__pycache__/\n*.pyc" 
+.idea/
+100 Days of Code - The Complete Python Pro Bootcamp/
+bulk-order-processing/
